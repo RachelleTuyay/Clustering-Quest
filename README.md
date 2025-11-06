@@ -15,7 +15,6 @@ Avec la librairie `TruncatedSVD`
 - DBSCAN
 - HDBSCAN
 - BGM (Bayeasian Gaussian Mixture)
-- AGG Clustering (Agglomerative Clustering)
 - BIRCH
 
 ## Métriques d'évaluations :
