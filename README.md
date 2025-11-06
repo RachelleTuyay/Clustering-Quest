@@ -26,4 +26,4 @@ Avec la librairie `TruncatedSVD`
   - Silhouette
   
 ## Visualisations : 
-  - Projection 2D avec Plotnine
+  - Projection 2D avec `Plotnine`
