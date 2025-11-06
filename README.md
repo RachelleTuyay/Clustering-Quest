@@ -3,6 +3,8 @@ Projet personnel qui consiste à décrouvrir différents méthodes de clustering
 
 L'objectif est de visualiser, comprendre et évaluer les données.
 
+Démo de clustering : https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
 ## Réduction de dimension :
 Avec la librairie `TruncatedSVD`
 
